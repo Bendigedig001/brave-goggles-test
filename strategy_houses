@@ -1,0 +1,17 @@
+! name: Strategy Consultancies
+! description: Rerank results to only have content from big strategy houses
+! public: false
+! author: Bendigedig
+
+$discard
+$boost,site=gartner.com
+$boost,site=mckinsey.com
+$boost,site=hbr.org
+$boost,site=forrester.com
+$boost,site=accenture.com
+$boost,site=bcg.com
+$boost,site=pwc.com
+$boost,site=deloitte.com
+$boost,site=ey.com
+$boost,site=bain.com
+$boost,site=ibmbigdatahub.com
