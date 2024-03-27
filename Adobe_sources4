@@ -39,7 +39,7 @@ $boost,site=contentmarketinginstitute.com
 $boost,site=thinkwithgoogle.com
 /Analytics^$boost,site=adobe.ly
 $boost,site=jennamolby.com
-/blog^$boost,site3sticks.com
+/blog^$boost,site=site3sticks.com
 $boost,site=webanalyticsfordevelopers.com
 $boost,site=analyticsdemystified.com
 /insights/adobe-analytics^$boost,site=bounteous.com
